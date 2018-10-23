@@ -1,0 +1,20 @@
+.background {
+    background-image: url("images/BackgroudFinal.png");
+}
+
+.jumbotron {
+    background-image: url("images/BackgroudFinal.png");
+}
+
+.project {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 3.5rem;
+        padding-left: 2.5rem;
+    }
+}

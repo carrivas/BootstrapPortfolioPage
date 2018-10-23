@@ -1,14 +1,26 @@
-.background {
+body {
     background-image: url("images/BackgroudFinal.png");
+    font-family: 'Roboto', sans-serif;
 }
-
-.jumbotron {
-    background-image: url("images/BackgroudFinal.png");
+.headerZone {
+color: #fff;
+margin: 100px 0 0 0;
 }
 
 .project {
     margin-right: 10px;
     margin-left: 10px;
+}
+.navbar {
+color: #fff;
+}
+h1 {
+    font-weight: bold;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+color: #fff;
+text-decoration: none;
 }
 
 
